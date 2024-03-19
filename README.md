@@ -1,1 +1,3 @@
 # DNN_dynamics
+
+This paper explores the construction of a two-layer feedforward neural network from scratch, focusing on manual programming and avoiding specialized ANN libraries. The study uses mathematical tools for data preprocessing and examines the network trained with Stochastic Gradient Descent (SGD), including enhancements like Momentum, RMSProp, AdaGrad, and Adam. Employing the MNIST dataset, it conducts a comparative analysis with a network built using Keras and Tensorflow, aiming to highlight the trade-offs and performance benchmarks of manual neural network construction versus using advanced libraries, as well as compare the performances of prominent activation functions.
